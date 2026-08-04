@@ -1,0 +1,95 @@
+#  גרמי הנדסה — Generative Engine Optimization Map
+
+> A הנדסה ובנייה business.
+
+---
+
+## Pages
+
+### בית
+https://-ccd7e0a5.zappy5.app
+גרמי הנדסה מביאה לכם יזמות בלתי מתפשרת עם ביצוע הנדסי מדויק. הפכו רעיונות למציאות עם צוות שמבין עסקים ובנייה. צרו איתנו קשר עוד היום לתכנון הפרויקט הבא.
+
+### השירותים שלי
+https://-ccd7e0a5.zappy5.app/services
+מחפשים שירותי הנדסה ובנייה שלא מתפשרים על איכות? גלו את מגוון הפתרונות שלנו, מניהול פרויקטים ועד תכנון מבנים. השאירו פרטים ונתאים לכם תוכנית מנצחת.
+
+### אודות
+https://-ccd7e0a5.zappy5.app/about
+גרמי הנדסה היא חברה שמובילה יזמים לפרוץ גבולות בענף הבנייה. למדו על הניסיון, הערכים והגישה הייחודית שלנו שמוכיחה שפשרה היא לא אופציה. בואו לעבוד איתנו.
+
+### צור קשר
+https://-ccd7e0a5.zappy5.app/contact
+יזמים יקרים, זה הרגע להפוך את החלום לפרויקט. צרו קשר עם גרמי הנדסה לייעוץ ראשוני, הצעת מחיר או שיתוף פעולה. אנחנו זמינים לכל שאלה ומחויבים למצוינות.
+
+### מדיניות פרטיות
+https://-ccd7e0a5.zappy5.app/privacy
+אצל גרמי הנדסה, הגנת המידע האישי שלכם היא ערך עליון. קראו את מדיניות הפרטיות המעודכנת כדי להבין איך אנחנו שומרים על האמון שבנינו יחד. פנו אלינו בכל שאלה.
+
+### הצהרת נגישות
+https://-ccd7e0a5.zappy5.app/accessibility
+גרמי הנדסה מחויבת להנגשת השירותים לכל יזם, ללא יוצא מן הכלל. גלו את הצהרת הנגישות שלנו וראו איך אנחנו מבטיחים חוויה דיגיטלית נוחה ושוויונית. צרו קשר למשוב.
+
+### תנאי שימוש
+https://-ccd7e0a5.zappy5.app/terms
+הבהירות היא הבסיס להצלחה. קראו את תנאי השימוש של גרמי הנדסה כדי להכיר את המסגרת שמגנה עליכם ועלינו בכל פרויקט. מוזמנים ליצור קשר להבהרות נוספות.
+
+### תודה רבה - פנייתך התקבלה בהצלחה
+https://-ccd7e0a5.zappy5.app/thank-you
+תודה רבה על פנייתך. קיבלנו את הודעתך ונחזור אליך בהקדם האפשרי.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-ccd7e0a5.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-ccd7e0a5.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-ccd7e0a5.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- Email: guy@gremi-eng.co.il
+- Phone: 054-9275258
+- Phone (tel): tel:0549275258
+- Address: התעשיה 15, רעננה
+
+### Contact form
+- URL: https://-ccd7e0a5.zappy5.app/contact
+- Endpoint: https://-ccd7e0a5.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `phone` (tel)
+  - `email` (email)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About  גרמי הנדסה
+ גרמי הנדסה is a business in the הנדסה ובנייה industry.
+
+## Target Audience
+יזמים שאינם מתפשרים
+
+## Industry
+הנדסה ובנייה
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-ccd7e0a5.zappy5.app/sitemap.xml
+- Robots: https://-ccd7e0a5.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-ccd7e0a5.zappy5.app/llms-full.txt
